@@ -1,12 +1,12 @@
-# YouBudget: Budgeting Web App
+# YouBudget: Income and Expense Tracker
 
 ## Overview
-YouBudget is an income and expense tracking application that allows users to input their financial data, assess their financial status, and visualize monthly spending trends through an interactive graph.
+YouBudget is an income and expense tracker that allows users to input financial data, visualize monthly transactions using an interactive graph, and evaluate their financial status.
 
 ## Preview
 ![YouBudget Image](images/youbudget-image.png)  
 
-[Watch the YouBudget Demo](https://drive.google.com/file/d/1_kqwVw7wXfkSyyDnvHQCHVFXmjjXPdLl/view?usp=sharing)
+Watch the YouBudget Demo [here](https://drive.google.com/file/d/1_kqwVw7wXfkSyyDnvHQCHVFXmjjXPdLl/view?usp=sharing).
 
 ## Usage
 - Users can select a transaction month and type from a dropdown menu.
@@ -15,7 +15,7 @@ YouBudget is an income and expense tracking application that allows users to inp
 - Input validation prevents the submission of empty budgets and alerts users when attempting to clear an empty table.
 
 ## Technologies Used
-Java, JavaScript, HTML, CSS, RESTful API, Chart.js, Git
+Java, JavaScript, Chart.js, RESTful API, HTML, CSS, Git
 
 ## Contributors
 - Reshawn Lofters ([GitHub](https://github.com/reshawnlofters))
