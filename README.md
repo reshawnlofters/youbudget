@@ -1,7 +1,7 @@
 # YouBudget: Income and Expense Tracker
 
 ## Overview
-YouBudget is an income and expense tracker that allows users to input financial data, visualize monthly transactions using an interactive graph, and evaluate their financial status.
+YouBudget is a budgeting web app that allows users to log income and expenses, visualize monthly transactions through an interactive graph, and gain insights into their financial health.
 
 ## Preview
 ![YouBudget Image](images/youbudget-image.png)  
@@ -9,13 +9,13 @@ YouBudget is an income and expense tracker that allows users to input financial 
 Watch the YouBudget Demo [here](https://drive.google.com/file/d/1_kqwVw7wXfkSyyDnvHQCHVFXmjjXPdLl/view?usp=sharing).
 
 ## Usage
-- Users can select a transaction month and type from a dropdown menu.
-- Users can remove specific rows or clear all rows from the table with a single click.
-- A "Learn More" button directs users to Ontario Tech University's budgeting resource page.
-- Input validation prevents the submission of empty budgets and alerts users when attempting to clear an empty table.
+- Select a transaction month and type from the dropdown menu.
+- Remove specific rows or clear all rows from the table with a single click.
+- Click the "Learn More" button to access Ontario Tech University's budgeting resources.
+- Input validation prevents submission of empty budgets and alerts users when attempting to clear an empty table.
 
 ## Technologies Used
-Java, JavaScript, Chart.js, RESTful API, HTML, CSS, Git
+Java, JavaScript, Chart.js, HTML/CSS, REST API, Git
 
 ## Contributors
 - Reshawn Lofters ([GitHub](https://github.com/reshawnlofters))
@@ -25,7 +25,7 @@ Java, JavaScript, Chart.js, RESTful API, HTML, CSS, Git
 
 ## Resources
 - [Chart.js](https://www.chartjs.org): Used for creating bar graphs and visualizations in the application.
-- [Ontario Tech University Budgeting Resource](https://safa.ontariotechu.ca/resources/budgeting.php): A resource for learning more about budgeting.
+- [Ontario Tech University Budgeting](https://safa.ontariotechu.ca/resources/budgeting.php): A resource for learning more about budgeting.
 
 ## Disclaimer
 This project was developed as part of an academic course at Ontario Tech University. The code is not publicly available to maintain academic integrity.
